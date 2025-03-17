@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <title>replit</title>
+    </head>
+    <body>
+    <h1>Odered List</h1>
+    <ol>
+    <li>Home</li>
+    <li>product</li>
+    <li>about us</li>
+    </ol>
+    <h1>Unordered List</h1>
+    <ul>
+    <li>Home</li>
+    <li>product</li>
+    <li>about us</li>
+    </ul>
+    <h1>Definition</h2>
+    <dl>
+    <dt>Home</dt>
+    <dt>product</dt>
+    <dt>about us</dt>
+    </dl>
+    </body>
+    </html>
